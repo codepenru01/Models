@@ -1,0 +1,54 @@
+.dt {
+    font-weight: 600;
+}
+
+.border {
+    background-color: #F6F6F6;
+}
+
+.all {
+    padding-top: 10px;
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.radi2 {
+    display: none;
+}
+
+.border1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+}
+
+.borderr1 {
+    border: 2px solid black;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background: #000000;
+}
+
+.border2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+}
+
+.borderr2 {
+    border: 2px solid black;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background: #ffffff;
+}
